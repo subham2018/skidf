@@ -2,7 +2,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>Dashcore - Premium Software & Startup HTML</title>
+<title>Register - Shreekrishna International Donate Fund</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width,initial-scale=1"><!-- Place favicon.ico in the root directory -->
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
